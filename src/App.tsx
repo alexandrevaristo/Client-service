@@ -11,6 +11,7 @@ const app= () =>{
     <div className="App">
       <Header />
       <Main />
+      <Footer />
     </div>
   );
 }
