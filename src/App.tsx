@@ -12,7 +12,7 @@ const app= () =>{
       <Header />
       <Main />
       
-      
+      <h1>Arnaldo</h1>
     </div>
   );
 }
